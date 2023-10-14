@@ -67,6 +67,3 @@ Interested in contributing to BYOR? Great! Here's how you can help:
 
 - This project was inspired by and based on the ["Build your own Redis"](original-link-to-the-tutorial) tutorial. All credits to the original author for the idea and foundational knowledge.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
