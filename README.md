@@ -1,4 +1,4 @@
-# Build Your Own Redis (BYOR)
+# Redis 
 
 A simplified Redis-like in-memory data structure store, capable of supporting basic data structures such as strings, hashes, lists, sets, and more.
 
